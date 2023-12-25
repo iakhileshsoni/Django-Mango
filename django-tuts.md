@@ -1,4 +1,4 @@
-# <span style="color:red">Instructions to Install Django (on Windows):</span>
+# <span style="color:red">Instructions to Install Django (on Windows)</span>
 
 ## <span style="color:blue">Note: You must have Python installed in your system to install Django</span>
 
