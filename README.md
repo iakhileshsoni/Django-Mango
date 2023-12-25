@@ -1,4 +1,4 @@
-how to make formatted documentation in github
+# how to make formatted documentation in github
 
 Create a Markdown File: README.md
 
