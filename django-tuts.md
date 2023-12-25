@@ -1,7 +1,6 @@
-# Instructions to Install Django (on Windows):
---------------------------------------------
+# <span style="color:red">Instructions to Install Django (on Windows):</span>
 
-## Note: You must have Python installed in your system to install Django
+## <span style="color:blue">Note: You must have Python installed in your system to install Django</span>
 
 1. Step-1 : **pip install Django**
 
