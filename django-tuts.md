@@ -15,4 +15,4 @@ Or
 
 
 
-# <font color="blue">Main Header</font>
+# <span style="color:red;">Main Header</span>
