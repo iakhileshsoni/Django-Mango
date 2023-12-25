@@ -15,4 +15,6 @@ Or
 
 
 
-# ![#f03c15]Main Header
+```diff 
+# Main Header
+```
