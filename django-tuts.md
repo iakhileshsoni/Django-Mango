@@ -11,19 +11,20 @@
 2. Step-2 : We can specify the version also, 
 
     ```bash
-    **pip install Django==3.2.4**
+    pip install Django==3.2.4
     ```
 
 3. Step-3 : Verify if installed
     
     ```bash
-    **django-admin --version**
+    django-admin --version
     ```
 
 Or
 
-- **import django**
-- **print(django.get_version())**
-
+    ```bash
+    import django
+    print(django.get_version())
+    ```
 
 # 
