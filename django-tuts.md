@@ -14,7 +14,7 @@
     pip install Django==3.2.4
     ```
 
-3. Step-3 : Verify if installed
+Step-3 : Verify if installed
     
     ```bash
     django-admin --version
