@@ -5,7 +5,7 @@
 1. Step-1 : Use this command to install Django:
     
     ```bash
-    **pip install Django**
+    pip install Django
     ```
 
 2. Step-2 : We can specify the version also, 
@@ -24,6 +24,8 @@ Or
 
     ```bash
     import django
+    ```
+    ```bash
     print(django.get_version())
     ```
 
