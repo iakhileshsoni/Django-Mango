@@ -5,13 +5,13 @@
 1. Step-1 : Use this command to install Django:
     
     ```bash
-    pip install Django
+    ### pip install Django
     ```
 
 2. Step-2 : We can specify the version also, 
 
     ```bash
-    pip install Django==3.2.4
+    ### pip install Django==3.2.4
     ```
 
 3. Step-3 : Verify if installed
