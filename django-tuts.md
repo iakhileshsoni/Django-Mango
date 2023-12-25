@@ -20,13 +20,12 @@
     django-admin --version
     ```
 
-Or
+    Or
 
     ```bash
-    import django
-    ```
-    ```bash
+    import django 
     print(django.get_version())
     ```
+
 
 # 
