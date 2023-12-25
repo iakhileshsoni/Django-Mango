@@ -16,5 +16,3 @@ Or
 
 
 $\color{red}{Directory\ structure\ in\ Django\ Project}$
-
-## $\colorbox{green}{{\color{white}{Directory\ structure\ in\ Django\ Project}}}$
