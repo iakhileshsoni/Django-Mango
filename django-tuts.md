@@ -15,4 +15,4 @@ Or
 
 
 
-$\color{green}{Directory structure in Django Project}$
+$\color{red}{Directory\ structure\ in\ Django\ Project}$
