@@ -2,13 +2,13 @@
 
 ## Note: You must have Python installed in your system to install Django
 
-1. Step-1 : Use this command to install Django:
+Step-1 : Use this command to install Django:
     
     ```bash
     pip install Django
     ```
 
-2. Step-2 : We can specify the version also, 
+Step-2 : We can specify the version also, 
 
     ```bash
     pip install Django==3.2.4
