@@ -1,6 +1,6 @@
-# <font color="red">Instructions to Install Django (on Windows)</font>
+# Instructions to Install Django (on Windows)
 
-## <font color="blue">Note: You must have Python installed in your system to install Django</font>
+## Note: You must have Python installed in your system to install Django
 
 1. Step-1 : **pip install Django**
 
@@ -15,4 +15,4 @@ Or
 
 
 
-$\color{red}{Directory\ structure\ in\ Django\ Project}$
+# 
