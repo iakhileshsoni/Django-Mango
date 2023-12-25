@@ -20,12 +20,14 @@ Step-3 : Verify if installed
 django-admin --version
 ```
 
-    Or
+Or
 
-    ```bash
-    import django 
-    print(django.get_version())
-    ```
+```bash
+import django 
+print(django.get_version())
+```
+
+
 
 
 # 
