@@ -15,4 +15,4 @@ Or
 
 
 
-> [!note]  # Directory structure in Django Project
+$\color{green}{Directory structure in Django Project}$
